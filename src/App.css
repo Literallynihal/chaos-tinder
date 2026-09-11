@@ -1,0 +1,28 @@
+/* Hide real cursor */
+body {
+  cursor: none !important;
+  overflow: hidden !important;
+}
+
+/* Fake cursor style */
+#fake-cursor {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  background-image: url('/cursor.png');
+  background-size: contain;
+  pointer-events: none;
+  z-index: 9999;
+  transition: all 0.1s ease;
+}
+
+/* Like button chaos */
+.like-button {
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+/* Chat input */
+#chat-input {
+  position: relative;
+}
