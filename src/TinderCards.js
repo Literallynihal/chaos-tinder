@@ -6,7 +6,7 @@ import SwipeButtons from './SwipeButtons';
 const PEOPLE = [
   {
     name: 'Raju, 24',
-    url: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=800&fit=crop',
+    url: 'https://i.pinimg.com/474x/7a/af/a4/7aafa48454a02b5c6ed22e7246b06dbe.jpg',
   },
   {
     name: 'Priya, Professional Napper',
@@ -14,7 +14,7 @@ const PEOPLE = [
   },
   {
     name: 'Arjun, Can Only Cook Maggi',
-    url: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=600&h=800&fit=crop',
+    url: 'https://i.pinimg.com/474x/6f/e8/a1/6fe8a1c40291faea1d24c768860945bf.jpg',
   },
   {
     name: 'Sneha, Horoscope Says No',
@@ -22,9 +22,16 @@ const PEOPLE = [
   },
   {
     name: 'Vikram, 3 Cats in Trenchcoat',
-    url: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&h=800&fit=crop',
+    url: 'https://i.pinimg.com/474x/23/76/6d/23766db814253a893053b45e7d494a75.jpg',
   },
-];
+  {
+    name: 'Vijay,future CM of TN',
+    url: 'https://www.pinterest.com/pin/555913147777396045',
+  },
+  {
+    name: 'Aravind,alter ego of ani',
+    url: 'https://www.pinterest.com/pin/1119426051155230145',
+  };
 
 function TinderCards() {
   const [currentIndex, setCurrentIndex] = useState(PEOPLE.length - 1);
