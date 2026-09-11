@@ -31,7 +31,8 @@ const PEOPLE = [
   {
     name: 'Aravind,alter ego of ani',
     url: 'https://www.pinterest.com/pin/1119426051155230145',
-  };
+  },
+];
 
 function TinderCards() {
   const [currentIndex, setCurrentIndex] = useState(PEOPLE.length - 1);
