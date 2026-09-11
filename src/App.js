@@ -5,8 +5,14 @@ import SwipeButtons from "./SwipeButtons";
 import Chats from "./Chats";
 import ChatScreen from "./ChatScreen";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { initAllChaos } from './chaos';
 
 function App() {
+  // ... existing code ...
+  
+  // Add this line before the return statement:
+  initAllChaos();
+  
   return (
     <div className="App">
       <Router>
