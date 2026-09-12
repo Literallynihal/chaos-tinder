@@ -5,32 +5,32 @@ import SwipeButtons from './SwipeButtons';
 
 const PEOPLE = [
   {
-    name: 'Raju, 24',
-    url: 'https://i.pinimg.com/474x/7a/af/a4/7aafa48454a02b5c6ed22e7246b06dbe.jpg',
+    name: 'Rangannan, Gave up land for Bengaluru Airport',
+    url: 'https://i.pinimg.com/736x/73/ba/c3/73bac381e69534f756a63b0e7bd04c69.jpg',
   },
   {
-    name: 'Priya, Professional Napper',
-    url: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=600&h=800&fit=crop',
+    name: 'Putturumees, Think hes some big M',
+    url: 'https://i.pinimg.com/736x/7a/af/a4/7aafa48454a02b5c6ed22e7246b06dbe.jpg',
   },
   {
-    name: 'Arjun, Can Only Cook Maggi',
-    url: 'https://i.pinimg.com/474x/6f/e8/a1/6fe8a1c40291faea1d24c768860945bf.jpg',
+    name: 'Muthu Pandi, Chellom lover ',
+    url: 'https://i.pinimg.com/736x/23/76/6d/23766db814253a893053b45e7d494a75.jpg',
   },
   {
-    name: 'Sneha, Horoscope Says No',
-    url: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&h=800&fit=crop',
+    name: 'Umesh & Shaji, Buy 1 get 1',
+    url: 'https://i.pinimg.com/736x/f6/d8/d0/f6d8d0986ed8bed5151a680ce23a7e55.jpg',
   },
   {
-    name: 'Vikram, 3 Cats in Trenchcoat',
-    url: 'https://i.pinimg.com/474x/23/76/6d/23766db814253a893053b45e7d494a75.jpg',
+    name: 'Nagavalli, Loves shopping aabharanam',
+    url: 'https://i.pinimg.com/736x/e4/7d/59/e47d59a3e923659215ab9e0ca350d5aa.jpg',
   },
   {
     name: 'Vijay,future CM of TN',
-    url: 'https://www.pinterest.com/pin/555913147777396045',
+    url: 'https://i.pinimg.com/736x/46/2b/1b/462b1b8ec9978cdd6f6a3b48224068cb.jpg',
   },
   {
-    name: 'Aravind,alter ego of ani',
-    url: 'https://www.pinterest.com/pin/1119426051155230145',
+    name: 'Malar,used to be a professor in kerala',
+    url: 'https://i.pinimg.com/736x/0c/a9/2d/0ca92dc073a30e5f74a9a917576eed71.jpg',
   },
 ];
 
